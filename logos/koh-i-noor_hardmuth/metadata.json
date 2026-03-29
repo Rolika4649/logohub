@@ -2,8 +2,7 @@
   "name": "koh-i-noor_hardmuth",
   "title": "Koh-i-Noor Hardmuth",
   "website": "https://www.koh-i-noor.cz/",
-  "colors": ["#ef171e"],
-            ["#1e191a"],
-  "created": "2026-3-29",
-  "updated": "2024-3-29"
+  "colors": ["#ef171e", "#1e191a"],
+  "created": "2026-03-29",
+  "updated": "2026-03-29"
 }
